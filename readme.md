@@ -1,6 +1,6 @@
 
-Gusess the 3 words 
-A demo android game. Low battery usage. No extra framework support. Pure java.
+## Gusess the 3 words-Demo A android game
+###### Low battery usage. No extra framework support. Pure java.
 
 
 
