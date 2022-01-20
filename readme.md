@@ -1,5 +1,5 @@
 
-## Gusess the 3 words-Demo A android game
+## Gusess the 3 Words - A Demo Android Game
 ###### Low battery usage. No extra framework support. Pure java.
 
 Select the correct combination of words. For example:
