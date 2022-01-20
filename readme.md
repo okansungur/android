@@ -2,6 +2,11 @@
 ## Gusess the 3 words-Demo A android game
 ###### Low battery usage. No extra framework support. Pure java.
 
+Select the correct combination of words. For example:
+
+- ace
+- hog
+- its
 
 
 <p align="center">
