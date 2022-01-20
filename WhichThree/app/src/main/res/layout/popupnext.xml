@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_custom_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_pop"
+    android:padding="20dp">
+    <RelativeLayout
+        android:id="@+id/rel2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:background="@drawable/popup_background"
+        >
+
+        <TextView
+            android:id="@+id/poptext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:padding="25sp"
+            android:text="Congratulations!.\n Proceed to Next Level "
+            android:textAlignment="center"
+
+            android:textColor="#f6f7f7"
+            android:textSize="20sp" />
+
+
+</RelativeLayout>
+
+    <Button
+        android:id="@+id/nextLevel"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+
+        android:layout_below="@+id/rel2"
+        android:background="@drawable/button_shape1"
+        android:tag="7"
+        android:text="Next"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</RelativeLayout>
